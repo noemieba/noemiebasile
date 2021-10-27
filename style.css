@@ -6,7 +6,6 @@ body {
   font-weight: lighter;
 }
 
-
 h1 {
   color:white;
   font-size: 30px ;
@@ -16,11 +15,9 @@ h2 {
   color: #6324d1
 }
 
-
 .img-circle {
   border-radius: 50%;
 }
-
 
 p {
   color: white;
@@ -40,11 +37,12 @@ p {
   margin-top: 50px;
   font-weight: normal;
 }
+
 .description {
   margin-bottom: 35px;
 }
 
-.card-purple {
+.card-rien {
   padding: 20px;
   margin: 10px auto;
   width: 85%;
