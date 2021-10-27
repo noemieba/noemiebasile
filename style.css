@@ -1,0 +1,75 @@
+body {
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-weight: lighter;
+}
+
+
+h1 {
+  color:white;
+  font-size: 30px ;
+
+}
+
+
+.img-circle {
+  border-radius: 50%;
+}
+
+
+p {
+  color: #C0F4E8;
+  font-size: 20px;
+}
+
+.btn-lien {
+  background-color: #F4C1C0;
+  color: white;
+  padding: 40px, 50px;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px;
+  font-size: medium;
+}
+
+
+h3 {
+  color: #F4C1C0
+}
+
+.card-purple {
+  background-color:#5932C9 ;
+  border-radius: 40px;
+  box-shadow: 0 20px 40px rgba(0,0,0,.1);
+  padding: 20px;
+  margin: 10px auto;
+  width: 85%;
+}
+
+.links {
+  background-color:#5932C9 ;
+  border-radius: 40px;
+  box-shadow: 0 20px 40px rgba(0,0,0,.1);
+  padding: 20px;
+  margin: 10px auto;
+  width: 85%;
+}
+
+.btn-insta {
+  color: white;
+  padding: 40px, 50px;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px;
+  font-size: medium;
+}
+
+.btn-linkedin {
+  color: white;
+  padding: 40px, 50px;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px;
+  font-size: medium;
+}
