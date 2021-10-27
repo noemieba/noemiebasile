@@ -34,7 +34,7 @@ p {
   font-size: medium;
   font-size: 20px;
   box-shadow: 0px 30px 50px rgba(0,0,0,.1);
-  margin-top: 50px;
+  margin-top: 70px;
   font-weight: normal;
 }
 
@@ -70,7 +70,7 @@ p {
 .links {
   background-color:transparent;
   padding: 10px;
-  margin: 20px auto;
+  margin: 30px auto;
   width: 85%;
 }
 
